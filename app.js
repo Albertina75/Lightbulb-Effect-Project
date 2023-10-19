@@ -20,4 +20,5 @@ else {
     bulb.classList.add('bulb-on');
 }
 
+
 });
